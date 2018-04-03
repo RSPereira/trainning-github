@@ -15,7 +15,7 @@ O projeto foi configurado a partir do [Create React App](https://github.com/face
 
 ##Como instalar e rodar o projeto:
 
-1. Clonar o projeto `git clone git@bitbucket.org:RSPereira/VML-test.git`;
+1. Clonar o projeto `git clone git@bitbucket.org:RSPereira/vml-test.git`;
 2. Instalar suas dependências `npm install`;
 3. Para rodar o projeto em desenvolvimento `npm start`;
 4. Para rodar os testes `npm test`;
