@@ -1,0 +1,29 @@
+.list-repositories {
+    background-color: rgb(7, 71, 166);
+    color: rgb(222, 235, 255);
+    padding: 16px 32px;
+    flex: 0 0 auto;
+}
+
+.list-repositories h1 {
+    font-size: 28px;
+    padding: 12px 0;
+}
+
+.list-repositories ul {
+    font-size: 14px;
+}
+
+.list-repositories a {
+    align-items: center;
+    box-sizing: border-box;
+    border-radius: 3px;
+    color: inherit;
+    display: flex;
+    padding: 8px 12px;
+    text-decoration: none;
+}
+
+@media all and (min-width: 800px) {
+
+}
