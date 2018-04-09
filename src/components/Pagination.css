@@ -1,0 +1,18 @@
+.pagination button {
+    border: none;
+    outline: 0;
+    font-size: 14px;
+    color: #FFF;
+    background: #0052CC;
+    transition: background .1s ease-out,box-shadow .15s cubic-bezier(.47,.03,.49,1.38);
+    box-sizing: border-box;
+    padding: 4px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+    display: inherit;
+    margin: 0 auto;
+}
+
+.pagination p {
+    text-align: center;
+}
