@@ -1,0 +1,37 @@
+.repository-details-header {
+    display: flex;
+    border-bottom: 2px solid #dfe1e6;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+}
+
+.repository-details-header p {
+    align-items: center;
+    display: flex;
+    flex: 2 1 auto;
+}
+
+.repository-details-header .details-end {
+    flex: 0 1 auto;
+    margin-left: 15px;
+}
+
+.repository-details h2 {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.commits li {
+    margin-bottom: 20px;
+}
+
+.commit-message {
+    font-size: 14px;
+    margin-bottom: 5px;
+    line-height: 1.2;
+}
+
+.commit-author {
+    color: #5e6c84;
+    font-size: 12px;
+}
