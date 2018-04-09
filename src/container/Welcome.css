@@ -1,0 +1,9 @@
+.initial {
+    padding: 16px 32px;
+    flex: 4 1 auto;
+}
+
+.initial h2 {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
